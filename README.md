@@ -1,17 +1,17 @@
 [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FElysian01&psig=AOvVaw0rjnplWLAyqiEc80B6xqOo&ust=1702728947069000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJD87uS1kYMDFQAAAAAdAAAAABAY)]
 <h1 align="center">Hi 👋, I'm Aditya Baranwal</h1>
-<h3 align="center">A passionate Machine Learning Engineer & Frontend Dev from India.</h3>
+<h3 align="center">A passionate AI/ML Engineer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityab1007&label=Profile%20views&color=0e75b6&style=flat" alt="adityab1007" /> </p>
 
 - 🌱 I’m currently learning **Javascript, React, Python**
 
-- 💬 Ask me about **C,C++,Java,SQL,DSA**
+- 💬 Ask me about **C,Python,Machine Learning, GenAI, Deep Learning, SQL, BIG DATA**
 
 - 📫 How to reach me **adityabaranwal007@gmail.com**
 
-- ⚡ Fun fact **I am a musician and an athlete as well.**
+- ⚡ Fun fact **I am a musician and a semi-pro football player as well.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
