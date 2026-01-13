@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityab1007&label=Profile%20views&color=0e75b6&style=flat" alt="adityab1007" /> </p>
 
-- 🌱 I’m currently learning **Javascript, React, Python**
+- 🌱 I’m currently learning **Adversarial Machine Learning, SNNs and RL**
 
 - 💬 Ask me about **C,Python,Machine Learning, GenAI, Deep Learning, SQL, BIG DATA**
 
